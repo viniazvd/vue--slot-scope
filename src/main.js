@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Pai from './Pai.vue'
+import Pai from './components/Pai.vue'
 
 new Vue({
   el: '#app',
